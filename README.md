@@ -1,5 +1,9 @@
 # workOutTracker
 
+# Description
+
+The workOutTracker application allows users to create, view and track workouts. The user can log multiple exercises and track by type, name, weight, sets, duration and reps.
+
 
 
 # Links
