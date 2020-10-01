@@ -7,7 +7,7 @@ router.get("/exercise", (req,res)=>{
 router.get("/stats", (req,res)=>{
     res.sendFile(path.join(__dirname, "../public/stats.html"))
 })
-router.ger("/stats", (req, res) => {
+router.get("/stats", (req, res) => {
     res.sendFile
 })
 module.exports = router 
